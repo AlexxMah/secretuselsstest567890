@@ -1,0 +1,52 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\www.balans.studio\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://www.balans.studio/
+File Name: C:\Downloaded Web Sites\www.balans.studio\index.htm
+Content Type: text/html
+
+Uri: https://www.balans.studio/about-us
+File Name: C:\Downloaded Web Sites\www.balans.studio\about-us.html
+Content Type: text/html
+
+Uri: https://www.balans.studio/privacy-policy
+File Name: C:\Downloaded Web Sites\www.balans.studio\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.balans.studio/projects/2ccm
+File Name: C:\Downloaded Web Sites\www.balans.studio\projects\2ccm.html
+Content Type: text/html
+
+Uri: https://www.balans.studio/projects/c-r-z
+File Name: C:\Downloaded Web Sites\www.balans.studio\projects\c-r-z.html
+Content Type: text/html
+
+Uri: https://www.balans.studio/projects/cctv
+File Name: C:\Downloaded Web Sites\www.balans.studio\projects\cctv.html
+Content Type: text/html
+
+Uri: https://www.balans.studio/projects/kornit
+File Name: C:\Downloaded Web Sites\www.balans.studio\projects\kornit.html
+Content Type: text/html
+
+Uri: https://www.balans.studio/projects/loreal
+File Name: C:\Downloaded Web Sites\www.balans.studio\projects\loreal.html
+Content Type: text/html
+
+Uri: https://www.balans.studio/projects/reel
+File Name: C:\Downloaded Web Sites\www.balans.studio\projects\reel.html
+Content Type: text/html
+
+Uri: https://www.balans.studio/projects/rublo
+File Name: C:\Downloaded Web Sites\www.balans.studio\projects\rublo.html
+Content Type: text/html
+
+Uri: https://www.balans.studio/projects/sephora-cny
+File Name: C:\Downloaded Web Sites\www.balans.studio\projects\sephora-cny.html
+Content Type: text/html
+
+Uri: https://www.balans.studio/works
+File Name: C:\Downloaded Web Sites\www.balans.studio\works.html
+Content Type: text/html
+
